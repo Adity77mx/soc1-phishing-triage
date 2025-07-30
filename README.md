@@ -51,7 +51,8 @@ The key objectives:
 Here are some highlights from the report:
 
 ### 🧪 Header Analysis Sample  
-<img src="https://raw.githubusercontent.com/adi1090x/files/main/banner/eamil_header_sample.png" width="800"/>
+<img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/email_header_sample.png" width="800"/>
+
 
 ---
 
