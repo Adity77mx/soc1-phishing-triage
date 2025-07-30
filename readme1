@@ -1,18 +1,24 @@
-<img src="https://github.com/adityamathur-0/SOC-Investigations/assets/your_image_id_here/phishing-banner" width="100%" alt="Phishing Investigation Banner" />
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.png" alt="Phishing Triage Investigation Banner" width="100%" style="border-radius: 12px;">
+</p>
 
-# 🛡️ Phishing Triage: SOC Analyst Investigation Report
+<h1 align="center">
+  🛡️ Phishing Triage & Investigation Platform
+</h1>
 
-Welcome to my **realistic phishing investigation lab** where I demonstrate how a SOC Analyst triages, analyzes, and documents a suspicious email from a potential threat actor. This mini project simulates a **real-world incident response** task that aligns with SOC Level 1 responsibilities.
+<p align="center">
+  <b>Analyze suspicious emails like a real SOC Analyst. Perform evidence triage, extract IOCs, and hunt for threats — all in a TryHackMe-style lab.</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/header-style.png" width="70%" alt="Investigation Flow Image">
+</p>
 
 ---
 
-## 📂 Project Structure
+## 🚀 What is This?
 
-```bash
-📁 Phishing-Triage-Investigation
-├── evidence/
-│   ├── email.eml
-│   ├── screenshot1.png
-│   └── indicators.txt
-├── Phishing_Triage_Investigation_Report.md
-└── README.md
+A visually rich, beginner-friendly platform to simulate **phishing investigations** and **evidence analysis** with interactive questions and realistic artifacts.
+
+...
