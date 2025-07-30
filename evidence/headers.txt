@@ -1,0 +1,7 @@
+Return-Path: <suspicious@fakebank.com>
+Received: from unknown (HELO mail.fakebank.com)
+From: "Fake Bank" <security@fakebank.com>
+To: victim@example.com
+Subject: Urgent! Your Account Access is Restricted
+Date: Mon, 28 Jul 2025 10:15:30 -0500
+Message-ID: <FAKEBANK-ALERT@12345>
