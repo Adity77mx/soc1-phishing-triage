@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adi1090x/files/main/banner/security_ops_center_banner.png" alt="Phishing Investigation Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/phishing_banner.png" alt="Phishing Investigation Banner" style="width:100%; border-radius:12px;">
 </p>
 
 # 🛡️ Phishing Email Triage Report (SOC Level 1 Portfolio)
