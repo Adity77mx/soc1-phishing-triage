@@ -1,3 +1,28 @@
+<div style="background-color:#014421; padding:30px; border-radius:12px; color:white; font-family:sans-serif;">
+
+# 🛡️ Phishing Email Triage
+
+> SOC Level 1 Investigation Tool
+
+---
+
+## 🧪 Header Analysis Sample  
+<img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/email_header_sample.png" width="800"/>
+
+Description...
+
+---
+
+## 🌐 Suspicious URL Analysis  
+...more content...
+
+---
+
+## 📎 Attachments & IOC  
+...more content...
+
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/phishing_banner.png" alt="Phishing Investigation Banner" style="width:100%; border-radius:12px;">
 </p>
