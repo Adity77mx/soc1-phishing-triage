@@ -127,11 +127,17 @@ No software required — pure markdown, viewable in any browser or GitHub app.
 
 🔹 **Screenshots**  
 - 📸 [Email Body](./evidence/email_body_screenshot.png)  
-- 📸 [Header Analysis](./evidence/header_analysis_screenshot.png)  
+- 📸 [Header Analysis](./evidence/header_analysis_screenshot.png)
+  
 
 🔹 **Supporting Docs**  
 - 📄 [IOC Cheat Sheet](./evidence/IOC_cheatsheet.md)  
 - 📄 [Header Analysis Guide](./evidence/Header_analysis_guide.md)  
 - 📄 [Triage Workflow](./evidence/Triage_Workflow.md)
 
+## 🤝 Contribution
+
+This project is part of the portfolio of [Aditya Mathur](https://www.linkedin.com/in/aditya-m-7crb3b77b3). Contributions and feedback are welcome.
+
+---
 
