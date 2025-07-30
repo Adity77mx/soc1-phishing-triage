@@ -57,7 +57,7 @@ Here are some highlights from the report:
 ---
 
 ### 🔗 URL Intelligence Check  
-<img src="https://raw.githubusercontent.com/adi1090x/files/main/banner/url_analysis_sample.png" width="800"/>
+<img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/url_analysis_sample.png" width="250"/>
 
 ---
 
