@@ -1,0 +1,76 @@
+# 🛡️ Phishing Triage SOC Investigation — Portfolio Project
+
+### 📌 Objective  
+Simulate a phishing triage investigation as a SOC Level 1 Analyst by analyzing email-based evidence and documenting findings in a structured, professional format.
+
+---
+
+## 📨 Email Metadata  
+| Field   | Value                      |
+|---------|----------------------------|
+| **From** | `info@citibank-alerts.com` |
+| **To**   | `employee@victimcorp.com`  |
+| **Subject** | `Action Required: Unusual Login Attempt` |
+| **Date**    | July 26, 2025             |
+
+---
+
+## 🔎 Key Indicators of Phishing  
+
+| 🛑 Indicator            | 💡 Description                                        |
+|------------------------|-------------------------------------------------------|
+| Display Name Spoofing  | Appears to be from Citibank, but uses suspicious domain |
+| Urgency Tone           | Subject uses scare tactic: “unusual login attempt”     |
+| Link Destination       | Hover reveals fake login URL: `http://citibank-update-alerts.com/login.php` |
+| No Personalization     | Generic salutation: “Dear User”                        |
+| Malicious Attachment   | PDF includes hidden redirect to phishing site          |
+
+---
+
+## 🔗 Link Analysis  
+
+- **URL:** `http://citibank-update-alerts.com/login.php`  
+- **Domain Age:** Registered 2 days ago  
+- **Hosting Location:** Russia  
+- **WHOIS Info:** Redacted; linked to prior phishing infrastructure  
+- **VirusTotal Result:** 9/72 AV engines detect it as malicious  
+
+---
+
+## 📎 Attachment Analysis  
+
+- **Filename:** `SecureLoginUpdate.pdf`  
+- **Observed Behavior:** Auto-redirects to phishing site upon open  
+- **VirusTotal Scan:** 5/66 engines flag as malicious  
+- **YARA Match:** `PDF.Phish.FakeBanking`  
+
+---
+
+## 🧠 Analyst Judgment  
+
+> ⚠️ This is a **confirmed phishing attempt**, utilizing branding spoofing, urgency techniques, and redirect behavior via PDF. It aligns with common credential harvesting campaigns targeting corporate users.
+
+---
+
+## ✅ Recommended Actions  
+
+- 🚫 Block domain: `citibank-update-alerts.com`  
+- 👤 Notify impacted user; force password reset  
+- 🧠 Submit IOCs to threat intel platforms  
+- 📬 Search mail gateway logs for similar campaigns  
+- 🔐 Update endpoint defense with YARA rule  
+
+---
+
+## 📂 Tags  
+
+`#SOC1` `#PhishingTriage` `#EmailAnalysis` `#PortfolioProject` `#ThreatIntel`
+
+---
+
+## 📅 Date Created  
+July 29, 2025
+
+## 👨‍💻 Author  
+**Aditya Mathur**  
+GitHub: [github.com/adityamathur-sec](https://github.com/adityamathur-sec)
