@@ -1,133 +1,22 @@
-# 🛡️ Phishing Triage Investigation Report
+## 🟢 Phishing Triage Investigation Report
 
-> An interactive phishing email triage investigation simulation inspired by real SOC tasks and TryHackMe-style guided challenges.
-
----
-
-## 📄 About
-
-This project simulates the real-life workflow of a SOC Level 1 Analyst during a **phishing triage** investigation. You will be given a **suspicious email**, and your task is to analyze the evidence, extract IoCs, and answer guided questions to identify the threat.
+> 🚨 This report documents the analysis of a suspicious email header and URL with visual evidence and findings.
 
 ---
 
-## 📥 Provided Evidence
-
-- **Suspicious Email Screenshot** (`.png`)
-- **Email Header** (`.eml`)
-- **Raw Message Body HTML** (`.html`)
-- **Phishing Link/URL Sample** (`.txt`)
-- **Rendered Phishing Page** (`.png`)
-- **Loki Scan Output** (`.txt`)
-
----
-
-## 🔍 Investigation Sections
-
-### 1️⃣ Header Analysis
-
-> Inspect the sender's email header to identify source IP, sender domain, mail server hops, and possible spoofing.
+### 🔍 Header Analysis Sample
 
 <img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/assets/email_header_sample.png" width="800"/>
 
-**Key Points:**
-- Look for suspicious IPs and sender mismatch
-- Check SPF, DKIM, and DMARC status
-- Review "Return-Path" and "Reply-To" headers
+---
+
+### 🌐 URL Analysis Sample
+
+<img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/assets/email_url_sample.png" width="800"/>
 
 ---
 
-### 2️⃣ URL/Link Analysis
+### 📌 Verdict
 
-> Analyze the malicious link(s) and investigate whether it's a phishing site, C2, or credential harvester.
-
-<img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/assets/url_analysis_sample.png" width="800"/>
-
-**Key Points:**
-- Identify if the URL uses punycode or domain impersonation
-- Look for URL shortening or redirection
-- Investigate final domain using VirusTotal, URLScan, etc.
-
----
-
-### 3️⃣ Loki Scan Results
-
-> Investigate the malware dropped from the phishing link using `Loki Scanner` output.
-
-**Example Questions You’ll Face:**
-- What is the filename and classification?
-- Which YARA rule matched?
-- Was a known web shell detected?
-- How many suspicious strings?
-
----
-
-## 🎯 Challenge Objectives
-
-- ✅ Extract **Indicators of Compromise (IoCs)**
-- ✅ Fill out the **SOC Analyst Investigation Sheet**
-- ✅ Answer multiple-choice **Triage Questions**
-- ✅ Identify the **Phishing Tactic**
-
----
-
-## 🧠 Skills Practiced
-
-- Email Header Analysis  
-- URL Threat Intelligence  
-- IOC Extraction  
-- Phishing Page Deconstruction  
-- Malware Triage (via Loki output)
-
----
-
-## 📁 Directory Structure
-
-```
-soc1-phishing-triage/
-├── assets/
-│   ├── email_header_sample.png
-│   ├── url_analysis_sample.png
-│   ├── rendered_phish_page.png
-│   └── loki_output_sample.txt
-├── README.md
-├── Phishing_Triage_Investigation_Report.md
-├── triage_questions.md
-└── ioc_report.txt
-```
-
----
-
-## 👨‍💻 Created By
-
-Aditya M  
-📍 Munirka, New Delhi  
-🎯 Aspiring SOC Analyst | IBM & Google Cybersecurity Certified  
-
----
-
-## 🌱 Future Additions
-
-- [ ] Add multiple difficulty levels (Easy, Medium, Real-world)
-- [ ] Auto-validate answers in local web app
-- [ ] Integrate phishing page rendering as interactive investigation
-
----
-
-## 🧩 Bonus TryHackMe-style Challenge
-
-> Download the provided `.eml`, `.html`, and `.txt` files and answer the following:
-
-1. What domain sent the email?
-2. What domain does the phishing link point to?
-3. What was the name of the detected web shell (if any)?
-4. What Loki YARA rule matched?
-5. How many suspicious strings were detected?
-
----
-
-## 🛡️ Disclaimer
-
-This is a **training-only** phishing simulation intended for SOC analyst education and awareness. No real user data or malware is involved.
-
----
+✅ Malicious email confirmed through forged headers and a phishing landing page.
 
