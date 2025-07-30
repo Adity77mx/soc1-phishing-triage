@@ -1,0 +1,18 @@
+<img src="https://github.com/adityamathur-0/SOC-Investigations/assets/your_image_id_here/phishing-banner" width="100%" alt="Phishing Investigation Banner" />
+
+# 🛡️ Phishing Triage: SOC Analyst Investigation Report
+
+Welcome to my **realistic phishing investigation lab** where I demonstrate how a SOC Analyst triages, analyzes, and documents a suspicious email from a potential threat actor. This mini project simulates a **real-world incident response** task that aligns with SOC Level 1 responsibilities.
+
+---
+
+## 📂 Project Structure
+
+```bash
+📁 Phishing-Triage-Investigation
+├── evidence/
+│   ├── email.eml
+│   ├── screenshot1.png
+│   └── indicators.txt
+├── Phishing_Triage_Investigation_Report.md
+└── README.md
