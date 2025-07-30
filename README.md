@@ -105,3 +105,18 @@ No software required — pure markdown, viewable in any browser or GitHub app.
 
 🛡️ Made with patience, precision & passion for cyber defense.
 
+## 🕵️ Evidence Collected
+
+🔹 **Phishing Email File (.eml)**  
+[📥 phishing_email.eml](./evidence/phishing_email.eml)
+
+🔹 **Screenshots**  
+- 📸 [Email Body](./evidence/email_body_screenshot.png)  
+- 📸 [Header Analysis](./evidence/header_analysis_screenshot.png)  
+
+🔹 **Supporting Docs**  
+- 📄 [IOC Cheat Sheet](./evidence/IOC_cheatsheet.md)  
+- 📄 [Header Analysis Guide](./evidence/Header_analysis_guide.md)  
+- 📄 [Triage Workflow](./evidence/Triage_Workflow.md)
+
+
