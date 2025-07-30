@@ -2,6 +2,18 @@
   <img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/phishing_banner.png" alt="Phishing Investigation Banner" style="width:100%; border-radius:12px;">
 </p>
 
+<h1 align="center" style="color:#00FF00;">🕵️‍♂️ Phishing Email Investigation Triage</h1>
+<p align="center"><i>A Realistic SOC Analyst Training Experience – Powered by Splunk & Forensics</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Level-SOC%20Tier%201-green?style=for-the-badge&logo=github" alt="SOC Tier 1 Badge"/>
+  <img src="https://img.shields.io/badge/Category-Phishing-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20by-Aditya%20Mathur-orange?style=for-the-badge"/>
+</p>
+
+---
+
+
 # 🛡️ Phishing Email Triage Report (SOC Level 1 Portfolio)
 
 A complete investigation walkthrough of a suspicious phishing email, analyzed from a SOC Level 1 perspective.  
