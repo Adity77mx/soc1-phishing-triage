@@ -35,6 +35,21 @@ The key objectives:
 - Provide risk score and recommendations
 
 ---
+## 📁 Folder Structure
+
+```
+soc1-phishing-triage/
+├── evidence/
+│   ├── phishing_email.eml
+│   ├── email_body_screenshot.png
+│   ├── header_analysis_screenshot.png
+│   ├── ioc_virustotal_screenshot.png (optional)
+├── docs/
+│   ├── IOC_cheatsheet.md
+│   ├── Header_analysis_guide.md
+│   └── Triage_Workflow.md
+├── README.md
+```
 
 ## 🧠 Skills Demonstrated
 
