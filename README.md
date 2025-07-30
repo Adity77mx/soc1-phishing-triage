@@ -1,3 +1,16 @@
+<div style="background-color:#014421; padding:30px; border-radius:12px; color:white;">
+
+# 🛡️ My Project Title
+
+A powerful SOC tool for phishing triage...
+
+## 🔍 Features
+- Header Analysis
+- IOC Extraction
+- Email Screenshot Review
+
+## 📷 Sample Image
+<img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/email_header_sample.png" width="800"/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/phishing_banner.png" alt="Phishing Investigation Banner" style="width:100%; border-radius:12px;">
 </p>
@@ -104,3 +117,5 @@ No software required — pure markdown, viewable in any browser or GitHub app.
 ---
 
 🛡️ Made with patience, precision & passion for cyber defense.
+
+</div>
