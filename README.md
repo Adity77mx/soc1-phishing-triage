@@ -120,8 +120,11 @@ No software required — pure markdown, viewable in any browser or GitHub app.
 
 ---
 
+
+## MITRE MAPPING
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adi1090x/files/main/banner/phishing_mitre_mapping.png" width="90%"/>
+<img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/phisihing_mitre_mapping.png" width="400"/>
 </p>
 
 ---
