@@ -76,10 +76,12 @@ Here are some highlights from the report:
 
 ---
 
+## 📊 Visual Walkthrough
+
+<img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/screenshot/Phishing_Investigation_Flowchart.png" width="400"/>
 
 
-### 🔗 URL Intelligence Check  
-<img src="https://raw.githubusercontent.com/Adity77mx/soc1-phishing-triage/main/Phishing_Investigation_Flowchart.png" width="250"/>
+
 
 
 ## 📂 Report Contents
