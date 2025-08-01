@@ -147,8 +147,6 @@ No software required — pure markdown, viewable in any browser or GitHub app.
 - 📄 [Header Analysis Guide](./evidence/Header_analysis_guide.md)  
 - 📄 [Triage Workflow](./evidence/Triage_Workflow.md)
 
-[Explore more phishing triage cases ➝](#)
-
 ---
 
 ## 🧠 Summary of Investigation
