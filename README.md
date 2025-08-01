@@ -24,6 +24,9 @@
 
 ---
 
+<h2 style="color:#00ADB5">🔍 What This Project Is About</h2>
+
+
 ## 🎯Case Objective 
 
 Analyze and respond to a real phishing attempt using real-world evidence like `.eml` files and screenshots.  
