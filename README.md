@@ -12,6 +12,15 @@
 </p>
 
 ---
+
+# 🎣 SOC1 Phishing Triage – Real-World Email Threat Investigation
+
+> **Built for Blue Teamers. Designed like a Hacker.**  
+> This project simulates a real SOC analyst workflow to triage a phishing incident from scratch—no hand-holding.  
+> It mimics TryHackMe-style guided tasks, evidence analysis, and final verdict—making it ideal for portfolios, learners, and defensive teams.
+
+---
+
 <img src="screenshots/doom_portfolio_soc1.png" alt="Dr Doom SOC1 Portfolio Banner" style="width:100%; border-radius:12px;"/>
 
 
