@@ -147,6 +147,20 @@ No software required — pure markdown, viewable in any browser or GitHub app.
 - 📄 [Header Analysis Guide](./evidence/Header_analysis_guide.md)  
 - 📄 [Triage Workflow](./evidence/Triage_Workflow.md)
 
+[Explore more phishing triage cases ➝](#)
+
+---
+
+## 🧠 Summary of Investigation
+
+- 🚩 **3 Suspicious Indicators** were detected
+- 🎯 Confirmed Tactic: **Credential Harvesting**
+- ✅ Final Verdict: **Malicious Email**
+- 🛡️ Suggested Action: Quarantine and educate recipient
+
+---
+
+
 ## 🤝 Contribution
 
 This project is part of the portfolio of [Aditya Mathur](https://www.linkedin.com/in/aditya-m-7crb3b77b3). Contributions and feedback are welcome.
