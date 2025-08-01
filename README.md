@@ -32,7 +32,7 @@
   width="30" 
   style="border-radius: 16px; padding: 12%; object-fit: contain;" 
 />    
-# Case Objective
+## Case Objective
 
 
 
