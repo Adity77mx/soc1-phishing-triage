@@ -33,7 +33,7 @@
       <img 
         src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
         alt="🧠 Doctor Doom Face Emoji" 
-        width="40" 
+        width="80" 
         style="border-radius: 16px; object-fit: contain;" />
     </td>
     <td style="vertical-align: middle;">
