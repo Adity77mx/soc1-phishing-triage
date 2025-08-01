@@ -29,9 +29,10 @@
 <img 
   src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
   alt="🧠 Doctor Doom Face Emoji" 
-  width="45" 
+  width="30" 
   style="border-radius: 16px; padding: 12%; object-fit: contain;" 
-/> ## **Case Objective**
+/>    
+# Case Objective
 
 
 
