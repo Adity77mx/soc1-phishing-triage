@@ -28,11 +28,11 @@
 
  <div style="display: flex; align-items: center; gap: 10px;">
   <img 
-    src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65sxe772gm676dtgtgc91fclnpa6" 
-    alt="🟢 Doctor Doom Face Emoji" 
-    width="40" 
-    style="border-radius: 16px; padding: 4px; object-fit: contain;"
-  />
+  src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
+  alt="🧠 Doctor Doom Face Emoji" 
+  width="100" 
+  style="border-radius: 16px; padding: 12%; object-fit: contain;" 
+/> 
   <h3 style="margin: 0;">Case Objective</h3>
 </div>
 
