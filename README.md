@@ -12,6 +12,7 @@
 </p>
 
 ---
+<img src="screenshots/doom_portfolio_soc1.png" alt="Dr Doom SOC1 Portfolio Banner" style="width:100%; border-radius:12px;"/>
 
 
 # 🛡️ Phishing Email Triage Report (SOC Level 1 Portfolio)
