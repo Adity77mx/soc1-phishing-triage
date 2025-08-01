@@ -29,19 +29,10 @@
 <img 
   src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
   alt="🧠 Doctor Doom Face Emoji" 
-  width="100" 
+  width="45" 
   style="border-radius: 16px; padding: 12%; object-fit: contain;" 
-/>
+/> ## **Case Objective**
 
-
-
-
-## 
- <img src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
-  alt="🧠 Doctor Doom Face Emoji" 
-  width="100" 
-  style="border-radius: 16px; padding: 12%; object-fit: contain;" 
-/>**Case Objective** 
 
 
 Analyze and respond to a real phishing attempt using real-world evidence like `.eml` files and screenshots.  
