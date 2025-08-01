@@ -24,7 +24,9 @@
 
 ---
 
-<h2 style="color:#00ADB5">🔍 What This Project Is About</h2>
+<blockquote>
+  <strong style="color:#00ADB5">🔍 What This Project Is About</strong>
+</blockquote>
 
 
 ## 🎯Case Objective 
