@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 <h2 style="color:#03fd03;">Case Objective </h2>
+## 🎯Case Objective 
 
 Analyze and respond to a real phishing attempt using real-world evidence like `.eml` files and screenshots.  
 Determine intent, impact, and appropriate action using SOC triage principles.
