@@ -14,7 +14,6 @@
 ---
 <img src="screenshots/doom_portfolio_soc1.png" alt="Dr Doom SOC1 Portfolio Banner" style="width:100%; border-radius:12px;"/>
 
-![doom-banner](./images/dr_doom_banner.png)
 
 > ⚔️ **Welcome to the Dark Side of Email Defense**  
 > This investigation exposes the sinister layers of a real-world phishing attack.  
