@@ -25,7 +25,7 @@
 ---
 
 <blockquote>
-  <strong style="color:#00ADB5">🔍 What This Project Is About</strong>
+  <strong style="color:#03fd03">🔍 What This Project Is About</strong>
 </blockquote>
 
 
