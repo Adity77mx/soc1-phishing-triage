@@ -24,9 +24,8 @@
 
 ---
 
-<blockquote>
-  <strong style="color:#03fd03">🔍 What This Project Is About</strong>
-</blockquote>
+This is my project ![DOOM](https://img.shields.io/badge/DOOM-Approved-red?style=for-the-badge&logo=doom&logoColor=white)
+
 
 
 ## 🎯Case Objective 
