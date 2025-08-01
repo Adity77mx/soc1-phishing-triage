@@ -174,6 +174,10 @@ No software required — pure markdown, viewable in any browser or GitHub app.
 
 ---
 
+## 🔚 Conclusion
+This hands-on phishing triage simulation highlights how a SOC Level 1 analyst can investigate real threats using headers, IOCs, and threat intel — validating an email as **malicious** using structured reasoning.
+
+---
 
 ## 🤝 Contribution
 
