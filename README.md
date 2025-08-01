@@ -29,18 +29,19 @@
 
 <table>
   <tr>
-    <td style="width:50px;">
+    <td style="vertical-align: middle; width: 50px;">
       <img 
         src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
         alt="🧠 Doctor Doom Face Emoji" 
         width="40" 
         style="border-radius: 16px; object-fit: contain;" />
     </td>
-    <td>
+    <td style="vertical-align: middle;">
       <h2 style="margin: 0; padding-left: 10px;">Case Objective</h2>
     </td>
   </tr>
 </table>
+
 
 
 
