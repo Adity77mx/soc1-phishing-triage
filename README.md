@@ -209,7 +209,7 @@ This project is part of the portfolio of [Aditya Mathur](https://www.linkedin.co
 
 ---
 
-<p align="middle" style="display: flex; align-items: center; gap: 40px;">
+<p align="middle" style="display: flex; align-items: center; gap: 400px;">
   <img 
     src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
     alt="🧠" 
