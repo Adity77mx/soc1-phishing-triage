@@ -209,13 +209,12 @@ This project is part of the portfolio of [Aditya Mathur](https://www.linkedin.co
 
 ---
 
-<p align="left" style="display: flex; align-items: center; gap: 10px;">
+<p align="middle" style="display: flex; align-items: center; gap: 40px;">
   <img 
     src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
     alt="🧠" 
     width="40" 
     style="border-radius: 12px;" />
-  <strong style="font-size: 22px;">Case Objective</strong>
 </p>
 
 
