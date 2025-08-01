@@ -33,8 +33,10 @@
     alt="🧠 Doctor Doom Face Emoji" 
     width="40" 
     style="vertical-align: middle; border-radius: 12px; margin-right: 10px;" />
-  <span style="font-size: 1.5em; font-weight: bold;">Case Objective</span>
+  <strong style="font-size: 20px; vertical-align: middle;">Case Objective</strong>
 </p>
+
+
 
 
 
