@@ -205,6 +205,7 @@ This hands-on phishing triage simulation highlights how a SOC Level 1 analyst ca
 
 ## 🤝 Contribution
 
+This hands-on phishing triage simulation highlights how a SOC Level 1 analyst can investigate real threats using headers, IOCs, and threat intel — validating an email as **malicious** using structured reasoning.
 This project is part of the portfolio of [Aditya Mathur](https://www.linkedin.com/in/aditya-m-7crb3b77b3). Contributions and feedback are welcome.
 
 ---
