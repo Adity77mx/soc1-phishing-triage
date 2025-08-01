@@ -209,13 +209,20 @@ This project is part of the portfolio of [Aditya Mathur](https://www.linkedin.co
 
 ---
 
-<p style="display: flex; align-items: center; gap: 12px;">
+<div style="display: flex; align-items: center; gap: 12px;">
   <img 
     src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
-    alt="🧠 Doctor Doom Face Emoji" 
-    width="40" 
-    style="border-radius: 12px;" />
-  <span style="font-size: 26px; font-weight: bold;">Case Objective</span>
-</p>
+    alt="🧠" 
+    width="50" 
+    style="
+      border-radius: 16px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    "
+    onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 12px rgba(0,0,0,0.3)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
+  />
+  <h2 style="margin: 0;">Case Objective</h2>
+</div>
+
 
 
