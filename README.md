@@ -209,20 +209,15 @@ This project is part of the portfolio of [Aditya Mathur](https://www.linkedin.co
 
 ---
 
-<div style="display: flex; align-items: center; gap: 12px;">
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
   <img 
     src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
     alt="🧠" 
-    width="50" 
-    style="
-      border-radius: 16px;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    "
-    onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 12px rgba(0,0,0,0.3)'"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
-  />
-  <h2 style="margin: 0;">Case Objective</h2>
-</div>
+    width="40" 
+    style="border-radius: 12px;" />
+  <strong style="font-size: 22px;">Case Objective</strong>
+</p>
+
 
 
 
