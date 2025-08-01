@@ -14,6 +14,20 @@
 ---
 <img src="screenshots/doom_portfolio_soc1.png" alt="Dr Doom SOC1 Portfolio Banner" style="width:100%; border-radius:12px;"/>
 
+![doom-banner](./images/dr_doom_banner.png)
+
+> ⚔️ **Welcome to the Dark Side of Email Defense**  
+> This investigation exposes the sinister layers of a real-world phishing attack.  
+> Dive into the evidence, connect the clues, and uncover the threat actor’s true intent.
+
+---
+
+## 🎯 Case Objective
+
+Analyze and respond to a real phishing attempt using real-world evidence like `.eml` files and screenshots.  
+Determine intent, impact, and appropriate action using SOC triage principles.
+
+
 
 # 🛡️ Phishing Email Triage Report (SOC Level 1 Portfolio)
 
