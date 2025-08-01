@@ -208,6 +208,15 @@ This hands-on phishing triage simulation highlights how a SOC Level 1 analyst ca
 This project is part of the portfolio of [Aditya Mathur](https://www.linkedin.com/in/aditya-m-7crb3b77b3). Contributions and feedback are welcome.
 
 ---
+## 🚀 Why This Project Matters
+- Demonstrates real SOC 1 analyst workflow
+- Includes evidence-based decision making
+- Highlights communication of threat investigation
+- Proves ability to handle phishing triage independently
+
+📂 **Keywords**: SOC Level 1, Phishing Investigation, Email Triage, Threat Intelligence, IOC, Header Analysis, Credential Harvesting
+
+
 
 <p align="middle" style="display: flex; align-items: center; gap: 400px;">
   <img 
