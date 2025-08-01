@@ -24,7 +24,7 @@
 
 ---
 
-This is my project <img src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/doa9027xcl7gy75l0rcesjqfvcn6" width="20" alt="Dr Doom Emoji">
+ <img src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/doa9027xcl7gy75l0rcesjqfvcn6" width="200" alt="Dr Doom Emoji">This is my project
 
 
 
