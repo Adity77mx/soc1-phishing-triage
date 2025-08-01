@@ -27,14 +27,15 @@
  <img src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/doa9027xcl7gy75l0rcesjqfvcn6" width="45" alt="Dr Doom Emoji">This is my project
 
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<p>
   <img 
     src="https://imgproxy.attic.sh/insecure/f:webp/q:90/w:750/plain/https://attic.sh/65xxe772gm676dtgtgc9lfclnpa6" 
     alt="🧠 Doctor Doom Face Emoji" 
     width="40" 
-    style="border-radius: 16px; object-fit: contain;" />
-  <h2 style="margin: 0;">Case Objective</h2>
-</div>
+    style="vertical-align: middle; border-radius: 12px; margin-right: 10px;" />
+  <span style="font-size: 1.5em; font-weight: bold;">Case Objective</span>
+</p>
+
 
 
 
