@@ -24,7 +24,8 @@
 
 ---
 
-This is my project ![DOOM](https://img.shields.io/badge/DOOM-Approved-red?style=for-the-badge&logo=doom&logoColor=white)
+This is my project <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 
 
 
